@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  dashboard
+
+  Created by Rasyadh Abdul Aziz on 13/06/20.
+  Copyright © 2020 rasyadh. All rights reserved.
+*/
+
+// MARK: - App
+"app.name" = "Dashboard Doctor";
+
+// MARK: - Field Validation
+"field_validation.invalid.title" = "Invalid Form";
+"field_validation.invalid.message.doctor_empty" = "Doctor cannot be empty";
+"field_validation.invalid.message.feedback_empty" = "Feedback cannot be empty";
+"field_validation.invalid.message.rating_empty" = "Rating cannot be empty";
+
+// MARK: - Messages Loading, Success, and Failure
+"messages.success" = "Success";
+
+"messages.failed.login.title" = "Login Failed";
+"messages.failed.logout.title" = "Logout Failed";
+"messages.failed.login.message" = "Wrong email or password";
+"messages.failed.default.title" = "Oops...";
+"messages.failed.default.message" = "Please check your internet connection or try again later";
+"messages.failed.default.message_try" = "Please try again";
+
+// MARK: - Empty State
+"empty_state.review.title" = "There's no reviews yet";
+
+// MARK: - Alert
+"alertify.ok" = "OK";
+"alertify.cancel" = "Cancel";
+"alertify.logout" = "Are you sure you want to logout ?";
+
+// MARK: - Main Screen
+"main.title" = "Main";
+"main.label.patient_review" = "Patient Review";
+"main.label.overall_rating" = "Overall Rating";
+"main.label.stars" = "Stars";
+"main.label.rating_comparison" = "Rating Comparison";
+"main.button.add_review" = "Add Review";
+
+// MARK: - Feedback Screen
+"feedback.title" = "Share Your Feedback";
+"feedback.label.doctor_name" = "Doctor's Name";
+"feedback.label.feedback" = "Feedback";
+"feedback.label.rate_experience" = "Rate Your Experience";
+"feedback.placeholder.choose_doctor" = "Choose Doctor";
+"feedback.placeholder.write_feedback" = "Write your feedback here";
+"feedback.button.submit" = "Submit";
+
+// MARK: - Doctor Picker Screen
+"doctor_picker.title" = "Choose Doctor";

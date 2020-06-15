@@ -1,0 +1,38 @@
+PODS:
+  - Charts (3.5.0):
+    - Charts/Core (= 3.5.0)
+  - Charts/Core (3.5.0)
+  - Cosmos (22.1.0)
+  - FittedSheets (1.4.6)
+  - Hue (5.0.0)
+  - IQKeyboardManagerSwift (6.5.5)
+  - "UITextView+Placeholder (1.4.0)"
+
+DEPENDENCIES:
+  - Charts
+  - Cosmos
+  - FittedSheets
+  - Hue
+  - IQKeyboardManagerSwift
+  - "UITextView+Placeholder"
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - Cosmos
+    - FittedSheets
+    - Hue
+    - IQKeyboardManagerSwift
+    - "UITextView+Placeholder"
+
+SPEC CHECKSUMS:
+  Charts: 40a08591df1f8ad5c223ddedfb1a06da92f24f7c
+  Cosmos: 2795b36ad4bbea1af3050d6d65576ed63875f86a
+  FittedSheets: 7f37fee2567d15dcde391f31eccbffb660ddebf0
+  Hue: c129cb67be7d093a82bbbc30ce8a96757bf6f37a
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  "UITextView+Placeholder": d7b0c400921f66523f3a85d74f774512e14f6502
+
+PODFILE CHECKSUM: e9dff00e59542ea61f6312a3948e736f380ddfee
+
+COCOAPODS: 1.8.4
